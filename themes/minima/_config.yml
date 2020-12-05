@@ -1,0 +1,38 @@
+#title in header
+title: "Hello fellow people."
+
+#main info
+#owner
+owner: "I am Konstantin Bode"
+info: ""
+#description
+desc: "Welcome to my probably third-and-a-half attempt on blogging."
+
+#menu
+menu:
+  #Projects: /Works
+  #Motion Picture: /Works
+  #Tech: /Works
+  About: /About
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# social profile at the footer/bottom
+# place: https://www.google.com/search?q=kendal+jawa+tengah
+github: https://github.com/BodeSpezial
+instagram: https://www.instagram.com/konstantin.bode/
+twitter: https://twitter.com/bodedotsh
+
+# js
+nanobar: /js/nanobar.min.js
+
+# favicon
+favicon: /images/favicon.png
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: false
+disqus_shortname: 
