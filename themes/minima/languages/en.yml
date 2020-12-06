@@ -1,0 +1,10 @@
+translate:
+        title: bode.sh
+        info: ''
+        greeting: "I'm Konstantin and glad to have you around"
+        desc: Welcome to my probably third-and-a-half attempt on blogging.
+        recent_posts: Recent Posts
+        show_all: See all posts
+        menu:
+                Home: Home
+                About: About me

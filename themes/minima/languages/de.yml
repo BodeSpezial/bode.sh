@@ -1,0 +1,10 @@
+translate:
+        title: bode.sh
+        info: ''
+        greeting: "Ich bin Konstantin und froh dich zu sehen"
+        desc: Willkommen zu meinem circa 3,5ten Anlauf einen Blog zu starten.
+        recent_posts: Letze Beitraege
+        show_all: Alle anzeigen
+        menu:
+                Home: Startseite
+                About: Ueber mich
