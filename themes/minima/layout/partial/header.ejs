@@ -27,16 +27,16 @@
 
   <div class="six columns ml-1" style="max-width: 300px">
     <h4 class="mt-2">
-      <%= theme.title %>
+      <%= _p('translate.title') %>
     </h4>
   </div>
 
   <div class="twelve columns">
     <div class="row">
       <div class="nine columns left">
-        <a href="<%= config.root %>" class="link">Home</a>
+        <a href="<%= config.root %><%= page.lang %>" class="link"><%= _p('translate.menu.Home') %></a>
         <% for (name in theme.menu) { %>
-          <a href="<%- url_for(theme.menu[name]) %>" class="ml link"><%- name %></a>
+          <a href="<%- url_for(theme.menu[name]) %>" class="ml link"><%- _p(`translate.menu.${name}`) %></a>
         <% } %>
       </div>
     </div>
