@@ -8,7 +8,9 @@ subtitle: ''
 description: ''
 keywords: developer, blogging, opinion
 author: Konstantin Bode
-language: en
+language: 
+- en
+- de
 timezone: ''
 
 # URL
