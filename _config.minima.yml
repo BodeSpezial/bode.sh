@@ -3,7 +3,7 @@ title: "Hello fellow people."
 
 #main info
 #owner
-owner: "I am Konstantin Bode"
+greeting: "I'm Konstantin and glad to have you around"
 info: ""
 #description
 desc: "Welcome to my probably third-and-a-half attempt on blogging."
@@ -13,7 +13,7 @@ menu:
   #Projects: /Works
   #Motion Picture: /Works
   #Tech: /Works
-  About: /About
+  About: /About-Me
 
 #index/main page max show posts (in number)
 max_post: 4
@@ -36,3 +36,5 @@ article:
 # DISQUS comments (sign up to Disqus to get disqus_shortname)
 disqus_enabled: false
 disqus_shortname: 
+
+mode: darkmode
